@@ -1,2 +1,2 @@
 # Python
-I write python code on small projects to help me improve my python programming experience.
+A place to collect small projects and error problems to practice coding skills and serve future work.
